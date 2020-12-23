@@ -6,8 +6,8 @@ function setup() {
  
 
   thickness=random(22,83);
-  speed=random(223,321);
-  weight=random(30,52);
+  speed=random(55,90);
+  weight=random(400,1500);
 
   bullet =  createSprite(50,200,50,50);
 
